@@ -3,7 +3,7 @@
 A first-person office puzzle game that runs in the browser. Follow Mara's handover through the
 office, the Continuity Exchange and The Last Light, then take the lift home.
 
-**Play:** https://apkmasondev.github.io/nexus-game/
+**Play:** https://apkmason.dev/nexus-game/
 
 Needs a desktop browser with WebGL 2 and a mouse and keyboard. Nothing is installed, no account is
 required, and no data leaves the machine: progress lives only in the current visit.
