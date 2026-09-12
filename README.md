@@ -1,7 +1,9 @@
 # The Cipher Office — NEXUS
 
-A first-person office puzzle game that runs in the browser. Follow Mara's handover through the
-office, the Continuity Exchange and The Last Light, then take the lift home.
+A first-person mystery that runs in the browser. Follow Mara's handover through the NEXUS office,
+the Continuity Exchange and The Last Light, take the lift home to your apartment, and return the
+next morning to the Oversight Division, where an independent review can stop a release that would
+erase everyone's personal boundary.
 
 **Play:** https://apkmason.dev/nexus-game/
 
