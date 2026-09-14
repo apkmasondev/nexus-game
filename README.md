@@ -8,7 +8,7 @@ erase everyone's personal boundary.
 **Play:** https://apkmason.dev/nexus-game/
 
 Needs a desktop browser with WebGL 2 and a mouse and keyboard. Nothing is installed, no account is
-required, and no data leaves the machine: progress lives only in the current visit.
+required, and no data leaves the machine. From the apartment onward, progress is checkpointed in this browser, so a reload can resume the current chapter.
 
 | Input | Action |
 | --- | --- |
